@@ -1,0 +1,13 @@
+.card-container{
+    background-color: white;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.love-emoji{
+    width: 60px;
+    height: 60px;
+}
